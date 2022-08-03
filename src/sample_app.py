@@ -1,4 +1,3 @@
-import time
 import falcon
 
 my_value = 'Hi!'
