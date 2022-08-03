@@ -1,0 +1,3 @@
+falcon  # exposes python functionality for gunicorn connection
+gunicorn  # hosts the API endpoint as a static process
+requests  # for get/post requests within python
